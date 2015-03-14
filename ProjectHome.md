@@ -1,0 +1,4 @@
+lisp
+study
+groups
+interpret
